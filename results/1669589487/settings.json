@@ -1,0 +1,10 @@
+{
+    "word_position_to_predict": -3,
+    "gpt3_engine": "davinci",
+    "temperature": 0.9,
+    "max_tokens": 10,
+    "top_p": 1,
+    "frequency_penalty": 1,
+    "presence_penalty": 1,
+    "number_of_trials": 100
+}
