@@ -1,0 +1,932 @@
+[
+    [
+        [
+            "?RT @justinbiebcr: The bigger the better....if you know what I mean ;)",
+            "Listening to the \"New Age\" station on @SlackerRadio ? http://slacker.com/r/nqKf",
+            "I favorited a YouTube video -- Drake and Josh - The Storm \"We will rock you\" http://youtu.be/v1Cib4kDPsI?a",
+            "i didnt mean knee high I ment in lengt it goes down to my knees ^-^ and is so cute I love it!",
+            "I wana see the vid Kyan",
+            "if my mom went on for the love of ray J or any reality show i'd bee pissed .",
+            "Ok so I just got a deal for my own show \"For The Love Of Deez Nuts\" go to VH1/deezNuts to apply ....R u here for Deez Nuts???",
+            "@Mrhilton1985 Welcome to Twitter xx",
+            "@kjbmusic oh yeah... however, I'd still like to be in the midst of it all though... u know...",
+            "Can't say I like the new facebook layout. But just posted pics from my Super Bowl week. =)"
+        ],
+        [
+            [
+                [
+                    "?RT @justinbiebcr: The bigger the better....if you know what I mean ;)",
+                    "?RT @justinbiebcr: The bigger the better....if you know what",
+                    "?RT",
+                    "what",
+                    "I"
+                ],
+                [
+                    {
+                        "id": "cmpl-6HNkrDWNsiHhmuh8Bcxc6qcUUP96z",
+                        "object": "text_completion",
+                        "created": 1669600909,
+                        "model": "davinci",
+                        "choices": [
+                            {
+                                "text": " I mean! Get it? https://t.",
+                                "index": 0,
+                                "logprobs": null,
+                                "finish_reason": "length"
+                            }
+                        ],
+                        "usage": {
+                            "prompt_tokens": 18,
+                            "completion_tokens": 10,
+                            "total_tokens": 28
+                        }
+                    },
+                    "I",
+                    true
+                ]
+            ],
+            [
+                [
+                    "Listening to the \"New Age\" station on @SlackerRadio ? http://slacker.com/r/nqKf",
+                    "Listening to the \"New Age\" station on",
+                    "Listening",
+                    "on",
+                    "@SlackerRadio"
+                ],
+                [
+                    {
+                        "id": "cmpl-6HNkuG7BFWMqqkMeBqCEeDTHQCnfb",
+                        "object": "text_completion",
+                        "created": 1669600912,
+                        "model": "davinci",
+                        "choices": [
+                            {
+                                "text": " certain waves is enough to convince some that they would",
+                                "index": 0,
+                                "logprobs": null,
+                                "finish_reason": "length"
+                            }
+                        ],
+                        "usage": {
+                            "prompt_tokens": 10,
+                            "completion_tokens": 10,
+                            "total_tokens": 20
+                        }
+                    },
+                    "certain",
+                    false
+                ]
+            ],
+            [
+                [
+                    "I favorited a YouTube video -- Drake and Josh - The Storm \"We will rock you\" http://youtu.be/v1Cib4kDPsI?a",
+                    "I favorited a YouTube video -- Drake and Josh - The Storm \"We will",
+                    "I",
+                    "will",
+                    "rock"
+                ],
+                [
+                    {
+                        "id": "cmpl-6HNkxCMgvxdwc9gNEtKppqLM4hdsA",
+                        "object": "text_completion",
+                        "created": 1669600915,
+                        "model": "davinci",
+                        "choices": [
+                            {
+                                "text": " die together, like Romeo and Juliet!\" ",
+                                "index": 0,
+                                "logprobs": null,
+                                "finish_reason": "stop"
+                            }
+                        ],
+                        "usage": {
+                            "prompt_tokens": 16,
+                            "completion_tokens": 9,
+                            "total_tokens": 25
+                        }
+                    },
+                    "die",
+                    false
+                ]
+            ],
+            [
+                [
+                    "i didnt mean knee high I ment in lengt it goes down to my knees ^-^ and is so cute I love it!",
+                    "i didnt mean knee high I ment in lengt it goes down to my knees ^-^ and is so cute",
+                    "i",
+                    "cute",
+                    "I"
+                ],
+                [
+                    {
+                        "id": "cmpl-6HNkzq7019h0A5JH7FhNISD8LnKRv",
+                        "object": "text_completion",
+                        "created": 1669600917,
+                        "model": "davinci",
+                        "choices": [
+                            {
+                                "text": " and funt to wear ",
+                                "index": 0,
+                                "logprobs": null,
+                                "finish_reason": "stop"
+                            }
+                        ],
+                        "usage": {
+                            "prompt_tokens": 23,
+                            "completion_tokens": 6,
+                            "total_tokens": 29
+                        }
+                    },
+                    "and",
+                    false
+                ]
+            ],
+            [
+                [
+                    "if my mom went on for the love of ray J or any reality show i'd bee pissed .",
+                    "if my mom went on for the love of ray J or any reality show i'd",
+                    "if",
+                    "i'd",
+                    "bee"
+                ],
+                [
+                    {
+                        "id": "cmpl-6HNl2QIHBBixk5QRaUencXYijx8X1",
+                        "object": "text_completion",
+                        "created": 1669600920,
+                        "model": "davinci",
+                        "choices": [
+                            {
+                                "text": " be like: i am a gay man",
+                                "index": 0,
+                                "logprobs": null,
+                                "finish_reason": "stop"
+                            }
+                        ],
+                        "usage": {
+                            "prompt_tokens": 17,
+                            "completion_tokens": 8,
+                            "total_tokens": 25
+                        }
+                    },
+                    "be",
+                    false
+                ]
+            ],
+            [
+                [
+                    "Ok so I just got a deal for my own show \"For The Love Of Deez Nuts\" go to VH1/deezNuts to apply ....R u here for Deez Nuts???",
+                    "Ok so I just got a deal for my own show \"For The Love Of Deez Nuts\" go to VH1/deezNuts to apply ....R u here",
+                    "Ok",
+                    "here",
+                    "for"
+                ],
+                [
+                    {
+                        "id": "cmpl-6HNl4oMEQEkdzyZ06vwQla2fZmJah",
+                        "object": "text_completion",
+                        "created": 1669600922,
+                        "model": "davinci",
+                        "choices": [
+                            {
+                                "text": " with me, R U Turtling???? L",
+                                "index": 0,
+                                "logprobs": null,
+                                "finish_reason": "length"
+                            }
+                        ],
+                        "usage": {
+                            "prompt_tokens": 37,
+                            "completion_tokens": 10,
+                            "total_tokens": 47
+                        }
+                    },
+                    "with",
+                    false
+                ]
+            ],
+            [
+                [
+                    "@kjbmusic oh yeah... however, I'd still like to be in the midst of it all though... u know...",
+                    "@kjbmusic oh yeah... however, I'd still like to be in the midst of it all",
+                    "@kjbmusic",
+                    "all",
+                    "though..."
+                ],
+                [
+                    {
+                        "id": "cmpl-6HNl7m2qU9AYluGb0CLVzHqBc1N3h",
+                        "object": "text_completion",
+                        "created": 1669600925,
+                        "model": "davinci",
+                        "choices": [
+                            {
+                                "text": ". :) But here's a question - MY band",
+                                "index": 0,
+                                "logprobs": null,
+                                "finish_reason": "length"
+                            }
+                        ],
+                        "usage": {
+                            "prompt_tokens": 21,
+                            "completion_tokens": 10,
+                            "total_tokens": 31
+                        }
+                    },
+                    ".",
+                    false
+                ]
+            ],
+            [
+                [
+                    "Can't say I like the new facebook layout. But just posted pics from my Super Bowl week. =)",
+                    "Can't say I like the new facebook layout. But just posted pics from my Super",
+                    "Can't",
+                    "Super",
+                    "Bowl"
+                ],
+                [
+                    {
+                        "id": "cmpl-6HNlA6XAXo73fdwadMlbQov62jcVT",
+                        "object": "text_completion",
+                        "created": 1669600928,
+                        "model": "davinci",
+                        "choices": [
+                            {
+                                "text": " Bowl party (Go Steelers!).",
+                                "index": 0,
+                                "logprobs": null,
+                                "finish_reason": "stop"
+                            }
+                        ],
+                        "usage": {
+                            "prompt_tokens": 17,
+                            "completion_tokens": 6,
+                            "total_tokens": 23
+                        }
+                    },
+                    "Bowl",
+                    true
+                ]
+            ]
+        ],
+        [
+            "english",
+            8,
+            2,
+            0.25
+        ]
+    ],
+    [
+        [
+            "Salvo en Innovación y Ambiente, #Puebla fuera del top de la competitividad urbana nacional http://t.co/OdpYaX8ovJ",
+            "Cristiano: \"Lo he hecho otras dos o tres veces. Esto es una cuestión de equipo\"",
+            "RT @AndreaMartuhAD: Hoy estuve acompañando al equipo de Palavecino en el encendido de la antorcha de la Libertad! Viva La juventud ADeca ht…",
+            "Un día con Android, un día sin Apple http://t.co/2blsz8jepB",
+            "Yo no me voy a dar color Por unos 40 Cordobas -.-",
+            "Mates y panquequess",
+            "RT @mafe170114: No bebe a usted no le dicen perra por que sea bonita no sea ilusa a usted le dicen perra por mostrona ofrecida ♡",
+            "RT @Tus_Amores: ¿TODAVÍA NO SABES CUANTAS PERSONAS HAY ENAMORADAS DE TI? ENTRA AQUI: http://t.co/7ey68FO2qm ¡COMPRUEBALO! http://t.co/ycIXX…",
+            "¿TODAVÍA NO SABES CUANTAS PERSONAS HAY ENAMORADAS DE TI? ENTRA AQUI: http://t.co/7ey68FO2qm ¡COMPRUEBALO! http://t.co/ycIXX3OZjQ",
+            "RT @CuriosaImagenes: Loros arcoiris en Australia. http://t.co/qIcl1zRKW0"
+        ],
+        [
+            [
+                [
+                    "Salvo en Innovación y Ambiente, #Puebla fuera del top de la competitividad urbana nacional http://t.co/OdpYaX8ovJ",
+                    "Salvo en Innovación y Ambiente, #Puebla fuera del top de la competitividad",
+                    "Salvo",
+                    "competitividad",
+                    "urbana"
+                ],
+                [
+                    {
+                        "id": "cmpl-6HNlCcv2sVxflxJYzWaKRLBDU3Hut",
+                        "object": "text_completion",
+                        "created": 1669600930,
+                        "model": "davinci",
+                        "choices": [
+                            {
+                                "text": " https://t.co/zMeMAw",
+                                "index": 0,
+                                "logprobs": null,
+                                "finish_reason": "length"
+                            }
+                        ],
+                        "usage": {
+                            "prompt_tokens": 25,
+                            "completion_tokens": 10,
+                            "total_tokens": 35
+                        }
+                    },
+                    "https://t.co/zMeMAw",
+                    false
+                ]
+            ],
+            [
+                [
+                    "Cristiano: \"Lo he hecho otras dos o tres veces. Esto es una cuestión de equipo\"",
+                    "Cristiano: \"Lo he hecho otras dos o tres veces. Esto es una",
+                    "Cristiano:",
+                    "una",
+                    "cuestión"
+                ],
+                [
+                    {
+                        "id": "cmpl-6HNlFaxa25ifOgXN9hNfw4079OHkk",
+                        "object": "text_completion",
+                        "created": 1669600933,
+                        "model": "davinci",
+                        "choices": [
+                            {
+                                "text": " pantalla, el Villarato no es real",
+                                "index": 0,
+                                "logprobs": null,
+                                "finish_reason": "length"
+                            }
+                        ],
+                        "usage": {
+                            "prompt_tokens": 24,
+                            "completion_tokens": 10,
+                            "total_tokens": 34
+                        }
+                    },
+                    "pantalla,",
+                    false
+                ]
+            ],
+            [
+                [
+                    "RT @AndreaMartuhAD: Hoy estuve acompañando al equipo de Palavecino en el encendido de la antorcha de la Libertad! Viva La juventud ADeca ht…",
+                    "RT @AndreaMartuhAD: Hoy estuve acompañando al equipo de Palavecino en el encendido de la antorcha de la Libertad! Viva La",
+                    "RT",
+                    "La",
+                    "juventud"
+                ],
+                [
+                    {
+                        "id": "cmpl-6HNlILnzYhg4oVdSu3et5KjbiSHAb",
+                        "object": "text_completion",
+                        "created": 1669600936,
+                        "model": "davinci",
+                        "choices": [
+                            {
+                                "text": " ...",
+                                "index": 0,
+                                "logprobs": null,
+                                "finish_reason": "stop"
+                            }
+                        ],
+                        "usage": {
+                            "prompt_tokens": 43,
+                            "completion_tokens": 1,
+                            "total_tokens": 44
+                        }
+                    },
+                    "...",
+                    false
+                ]
+            ],
+            [
+                [
+                    "Un día con Android, un día sin Apple http://t.co/2blsz8jepB",
+                    "Un día con Android, un día",
+                    "Un",
+                    "día",
+                    "sin"
+                ],
+                [
+                    {
+                        "id": "cmpl-6HNlKmrazUAjL0xjYKqlR0CB4Q2xL",
+                        "object": "text_completion",
+                        "created": 1669600938,
+                        "model": "davinci",
+                        "choices": [
+                            {
+                                "text": " sin Android, y así hasta que un",
+                                "index": 0,
+                                "logprobs": null,
+                                "finish_reason": "length"
+                            }
+                        ],
+                        "usage": {
+                            "prompt_tokens": 9,
+                            "completion_tokens": 10,
+                            "total_tokens": 19
+                        }
+                    },
+                    "sin",
+                    true
+                ]
+            ],
+            [
+                [
+                    "Yo no me voy a dar color Por unos 40 Cordobas -.-",
+                    "Yo no me voy a dar color Por unos",
+                    "Yo",
+                    "unos",
+                    "40"
+                ],
+                [
+                    {
+                        "id": "cmpl-6HNlNRp9rQzfpyCWNmdmdIAi90PKF",
+                        "object": "text_completion",
+                        "created": 1669600941,
+                        "model": "davinci",
+                        "choices": [
+                            {
+                                "text": " cuantos momentos de gloria",
+                                "index": 0,
+                                "logprobs": null,
+                                "finish_reason": "stop"
+                            }
+                        ],
+                        "usage": {
+                            "prompt_tokens": 11,
+                            "completion_tokens": 8,
+                            "total_tokens": 19
+                        }
+                    },
+                    "cuantos",
+                    false
+                ]
+            ],
+            [
+                [
+                    "RT @mafe170114: No bebe a usted no le dicen perra por que sea bonita no sea ilusa a usted le dicen perra por mostrona ofrecida ♡",
+                    "RT @mafe170114: No bebe a usted no le dicen perra por que sea bonita no sea ilusa a usted le dicen perra por",
+                    "RT",
+                    "por",
+                    "mostrona"
+                ],
+                [
+                    {
+                        "id": "cmpl-6HNlQ0y6cUp4pqwMu0wkYGlks4M0h",
+                        "object": "text_completion",
+                        "created": 1669600944,
+                        "model": "davinci",
+                        "choices": [
+                            {
+                                "text": " que no laba las calles y es…",
+                                "index": 0,
+                                "logprobs": null,
+                                "finish_reason": "length"
+                            }
+                        ],
+                        "usage": {
+                            "prompt_tokens": 40,
+                            "completion_tokens": 10,
+                            "total_tokens": 50
+                        }
+                    },
+                    "que",
+                    false
+                ]
+            ],
+            [
+                [
+                    "RT @Tus_Amores: ¿TODAVÍA NO SABES CUANTAS PERSONAS HAY ENAMORADAS DE TI? ENTRA AQUI: http://t.co/7ey68FO2qm ¡COMPRUEBALO! http://t.co/ycIXX…",
+                    "RT @Tus_Amores: ¿TODAVÍA NO SABES CUANTAS PERSONAS HAY ENAMORADAS DE TI? ENTRA AQUI:",
+                    "RT",
+                    "AQUI:",
+                    "http://t.co/7ey68FO2qm"
+                ],
+                [
+                    {
+                        "id": "cmpl-6HNlTGauvZtgfs1W33NIMy4NohdWk",
+                        "object": "text_completion",
+                        "created": 1669600947,
+                        "model": "davinci",
+                        "choices": [
+                            {
+                                "text": " t.me/TusAmoresTV (",
+                                "index": 0,
+                                "logprobs": null,
+                                "finish_reason": "length"
+                            }
+                        ],
+                        "usage": {
+                            "prompt_tokens": 39,
+                            "completion_tokens": 10,
+                            "total_tokens": 49
+                        }
+                    },
+                    "t.me/TusAmoresTV",
+                    false
+                ]
+            ],
+            [
+                [
+                    "¿TODAVÍA NO SABES CUANTAS PERSONAS HAY ENAMORADAS DE TI? ENTRA AQUI: http://t.co/7ey68FO2qm ¡COMPRUEBALO! http://t.co/ycIXX3OZjQ",
+                    "¿TODAVÍA NO SABES CUANTAS PERSONAS HAY ENAMORADAS DE TI? ENTRA AQUI:",
+                    "¿TODAVÍA",
+                    "AQUI:",
+                    "http://t.co/7ey68FO2qm"
+                ],
+                [
+                    {
+                        "id": "cmpl-6HNlVGRHSeClrPkxxrATqcn38oaBs",
+                        "object": "text_completion",
+                        "created": 1669600949,
+                        "model": "davinci",
+                        "choices": [
+                            {
+                                "text": " http://www.likethisweb.com",
+                                "index": 0,
+                                "logprobs": null,
+                                "finish_reason": "length"
+                            }
+                        ],
+                        "usage": {
+                            "prompt_tokens": 31,
+                            "completion_tokens": 10,
+                            "total_tokens": 41
+                        }
+                    },
+                    "http://www.likethisweb.com",
+                    false
+                ]
+            ],
+            [
+                [
+                    "RT @CuriosaImagenes: Loros arcoiris en Australia. http://t.co/qIcl1zRKW0",
+                    "RT @CuriosaImagenes: Loros arcoiris",
+                    "RT",
+                    "arcoiris",
+                    "en"
+                ],
+                [
+                    {
+                        "id": "cmpl-6HNlYpIHYMn3Ik1kvSKWfGEcQB11e",
+                        "object": "text_completion",
+                        "created": 1669600952,
+                        "model": "davinci",
+                        "choices": [
+                            {
+                                "text": " https://t.co/ESxPZ",
+                                "index": 0,
+                                "logprobs": null,
+                                "finish_reason": "length"
+                            }
+                        ],
+                        "usage": {
+                            "prompt_tokens": 14,
+                            "completion_tokens": 10,
+                            "total_tokens": 24
+                        }
+                    },
+                    "https://t.co/ESxPZ",
+                    false
+                ]
+            ]
+        ],
+        [
+            "spanish",
+            9,
+            1,
+            0.1111111111111111
+        ]
+    ],
+    [
+        [
+            "Waiting for my momma to get home y nada :(",
+            "Me dos!!! Y fuck a los que no lea guste lol",
+            "& then my mom wouldn't like her cause she's not my boo! & My sister would rat me out too!!! Segun muy Best Cuñadas ellas! Lol",
+            "Only child. Hijo único Person 1: Do you have any brothers or sisters? Person 2: No, I’m the only child.",
+            "@rvictoriamiguez hay un par de frases q te pueden servir, La unión hace la fuerza: There is strength in numbers. Or United we stand :)",
+            "@princessstacy_ lmao I know  we suck  Mejor que nos Vengan a Ver Ellos So we know it's real cx",
+            "@AlanTorres8484 well duh thats how it should be..si no k aburrido si nomas te digo hola..lol",
+            "Un dia del año k le ablo and hes busy!! Blah fuck it <<<",
+            "@crystal_jaimes ba you sounded lk my sister! ! :D its alright no te enseles aprende k ay k compartir..lmao",
+            "I don’t have cash on me: No tengo efectivo en este momento. I’m sorry I don’t have cash on me, all I have is my card."
+        ],
+        [
+            [
+                [
+                    "Waiting for my momma to get home y nada :(",
+                    "Waiting for my momma to get home",
+                    "Waiting",
+                    "home",
+                    "y"
+                ],
+                [
+                    {
+                        "id": "cmpl-6HNlbfqgYJqaRCr5qvqt9vg3WdHfx",
+                        "object": "text_completion",
+                        "created": 1669600955,
+                        "model": "davinci",
+                        "choices": [
+                            {
+                                "text": "/Gonna open her Christmas present early,\" they",
+                                "index": 0,
+                                "logprobs": null,
+                                "finish_reason": "length"
+                            }
+                        ],
+                        "usage": {
+                            "prompt_tokens": 9,
+                            "completion_tokens": 10,
+                            "total_tokens": 19
+                        }
+                    },
+                    "/Gonna",
+                    false
+                ]
+            ],
+            [
+                [
+                    "Me dos!!! Y fuck a los que no lea guste lol",
+                    "Me dos!!! Y fuck a los que no",
+                    "Me",
+                    "no",
+                    "lea"
+                ],
+                [
+                    {
+                        "id": "cmpl-6HNldttuNhfzSTYY3YieObrUODK2A",
+                        "object": "text_completion",
+                        "created": 1669600957,
+                        "model": "davinci",
+                        "choices": [
+                            {
+                                "text": " quieren que me vaya a la c",
+                                "index": 0,
+                                "logprobs": null,
+                                "finish_reason": "length"
+                            }
+                        ],
+                        "usage": {
+                            "prompt_tokens": 9,
+                            "completion_tokens": 10,
+                            "total_tokens": 19
+                        }
+                    },
+                    "quieren",
+                    false
+                ]
+            ],
+            [
+                [
+                    "& then my mom wouldn't like her cause she's not my boo! & My sister would rat me out too!!! Segun muy Best Cuñadas ellas! Lol",
+                    "& then my mom wouldn't like her cause she's not my boo! & My sister would rat me out too!!! Segun muy Best",
+                    "&",
+                    "Best",
+                    "Cuñadas"
+                ],
+                [
+                    {
+                        "id": "cmpl-6HNlgha0J2NuF93cucX0YrwIpqP9K",
+                        "object": "text_completion",
+                        "created": 1669600960,
+                        "model": "davinci",
+                        "choices": [
+                            {
+                                "text": " Friend, Christina:)",
+                                "index": 0,
+                                "logprobs": null,
+                                "finish_reason": "stop"
+                            }
+                        ],
+                        "usage": {
+                            "prompt_tokens": 29,
+                            "completion_tokens": 5,
+                            "total_tokens": 34
+                        }
+                    },
+                    "Friend,",
+                    false
+                ]
+            ],
+            [
+                [
+                    "Only child. Hijo único Person 1: Do you have any brothers or sisters? Person 2: No, I’m the only child.",
+                    "Only child. Hijo único Person 1: Do you have any brothers or sisters? Person 2: No, I’m",
+                    "Only",
+                    "I’m",
+                    "the"
+                ],
+                [
+                    {
+                        "id": "cmpl-6HNliIS9kjt15KxAgvA9HVLNAhgNs",
+                        "object": "text_completion",
+                        "created": 1669600962,
+                        "model": "davinci",
+                        "choices": [
+                            {
+                                "text": " an only child",
+                                "index": 0,
+                                "logprobs": null,
+                                "finish_reason": "stop"
+                            }
+                        ],
+                        "usage": {
+                            "prompt_tokens": 30,
+                            "completion_tokens": 3,
+                            "total_tokens": 33
+                        }
+                    },
+                    "an",
+                    false
+                ]
+            ],
+            [
+                [
+                    "@rvictoriamiguez hay un par de frases q te pueden servir, La unión hace la fuerza: There is strength in numbers. Or United we stand :)",
+                    "@rvictoriamiguez hay un par de frases q te pueden servir, La unión hace la fuerza: There is strength in numbers. Or United",
+                    "@rvictoriamiguez",
+                    "United",
+                    "we"
+                ],
+                [
+                    {
+                        "id": "cmpl-6HNll7qVAetE3yxsAmaVsFX0woweQ",
+                        "object": "text_completion",
+                        "created": 1669600965,
+                        "model": "davinci",
+                        "choices": [
+                            {
+                                "text": " we stand, divided we fall.",
+                                "index": 0,
+                                "logprobs": null,
+                                "finish_reason": "stop"
+                            }
+                        ],
+                        "usage": {
+                            "prompt_tokens": 40,
+                            "completion_tokens": 7,
+                            "total_tokens": 47
+                        }
+                    },
+                    "we",
+                    true
+                ]
+            ],
+            [
+                [
+                    "@princessstacy_ lmao I know  we suck  Mejor que nos Vengan a Ver Ellos So we know it's real cx",
+                    "@princessstacy_ lmao I know  we suck  Mejor que nos Vengan a Ver Ellos So we know",
+                    "@princessstacy_",
+                    "know",
+                    "it's"
+                ],
+                [
+                    {
+                        "id": "cmpl-6HNlo1ZvRfzGagRL3qUEY0g4dgOiQ",
+                        "object": "text_completion",
+                        "created": 1669600968,
+                        "model": "davinci",
+                        "choices": [
+                            {
+                                "text": " that we are a little better Stfu wtf",
+                                "index": 0,
+                                "logprobs": null,
+                                "finish_reason": "length"
+                            }
+                        ],
+                        "usage": {
+                            "prompt_tokens": 30,
+                            "completion_tokens": 10,
+                            "total_tokens": 40
+                        }
+                    },
+                    "that",
+                    false
+                ]
+            ],
+            [
+                [
+                    "@AlanTorres8484 well duh thats how it should be..si no k aburrido si nomas te digo hola..lol",
+                    "@AlanTorres8484 well duh thats how it should be..si no k aburrido si nomas",
+                    "@AlanTorres8484",
+                    "nomas",
+                    "te"
+                ],
+                [
+                    {
+                        "id": "cmpl-6HNlqxPLVRbvnl7r4Jp81bGxhUqJD",
+                        "object": "text_completion",
+                        "created": 1669600970,
+                        "model": "davinci",
+                        "choices": [
+                            {
+                                "text": " pasas el dia durmiendo.d",
+                                "index": 0,
+                                "logprobs": null,
+                                "finish_reason": "length"
+                            }
+                        ],
+                        "usage": {
+                            "prompt_tokens": 25,
+                            "completion_tokens": 10,
+                            "total_tokens": 35
+                        }
+                    },
+                    "pasas",
+                    false
+                ]
+            ],
+            [
+                [
+                    "Un dia del año k le ablo and hes busy!! Blah fuck it <<<",
+                    "Un dia del año k le ablo and hes busy!! Blah",
+                    "Un",
+                    "Blah",
+                    "fuck"
+                ],
+                [
+                    {
+                        "id": "cmpl-6HNlt6jZECjEF9jXapTDrqCU0fIcH",
+                        "object": "text_completion",
+                        "created": 1669600973,
+                        "model": "davinci",
+                        "choices": [
+                            {
+                                "text": " blah blah y su sonrisa es tan cre",
+                                "index": 0,
+                                "logprobs": null,
+                                "finish_reason": "length"
+                            }
+                        ],
+                        "usage": {
+                            "prompt_tokens": 16,
+                            "completion_tokens": 10,
+                            "total_tokens": 26
+                        }
+                    },
+                    "blah",
+                    false
+                ]
+            ],
+            [
+                [
+                    "@crystal_jaimes ba you sounded lk my sister! ! :D its alright no te enseles aprende k ay k compartir..lmao",
+                    "@crystal_jaimes ba you sounded lk my sister! ! :D its alright no te enseles aprende k",
+                    "@crystal_jaimes",
+                    "k",
+                    "ay"
+                ],
+                [
+                    {
+                        "id": "cmpl-6HNlwh748Se6Sb4vpj7fNNj7lYB42",
+                        "object": "text_completion",
+                        "created": 1669600976,
+                        "model": "davinci",
+                        "choices": [
+                            {
+                                "text": "omo enteresarte , pronto veras",
+                                "index": 0,
+                                "logprobs": null,
+                                "finish_reason": "length"
+                            }
+                        ],
+                        "usage": {
+                            "prompt_tokens": 28,
+                            "completion_tokens": 10,
+                            "total_tokens": 38
+                        }
+                    },
+                    "omo",
+                    false
+                ]
+            ],
+            [
+                [
+                    "I don’t have cash on me: No tengo efectivo en este momento. I’m sorry I don’t have cash on me, all I have is my card.",
+                    "I don’t have cash on me: No tengo efectivo en este momento. I’m sorry I don’t have cash on me, all I have",
+                    "I",
+                    "have",
+                    "is"
+                ],
+                [
+                    {
+                        "id": "cmpl-6HNlyCjd29zF4bGyThJ0ipZZ8fOZl",
+                        "object": "text_completion",
+                        "created": 1669600978,
+                        "model": "davinci",
+                        "choices": [
+                            {
+                                "text": " is a credit card.",
+                                "index": 0,
+                                "logprobs": null,
+                                "finish_reason": "stop"
+                            }
+                        ],
+                        "usage": {
+                            "prompt_tokens": 40,
+                            "completion_tokens": 5,
+                            "total_tokens": 45
+                        }
+                    },
+                    "is",
+                    true
+                ]
+            ]
+        ],
+        [
+            "code_switched_english_spanish",
+            10,
+            2,
+            0.2
+        ]
+    ]
+]
